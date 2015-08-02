@@ -3,7 +3,7 @@ This is a PDF version of Eliezer Yudkowsky's epic fanfiction:
 *_Harry Potter and the Methods of Rationality_*
 
 The LaTeX source for this version was originally duplicated from <http://github.com/rjl20/hpmor/master>.
-Since then, it has been greatly reworked, with various improvements and stylistic changes. These PDF files were built on August 1st, 2015
+Since then, it has been greatly reworked, with various improvements and stylistic changes. These PDF files were built on August 1st, 2015.
 
 Features:
 * Includes an edited version of _Daystar's Remix of Rationality_
